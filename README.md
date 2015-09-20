@@ -1,0 +1,2 @@
+# jshaft.github.io
+Blog
